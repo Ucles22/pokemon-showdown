@@ -21374,7 +21374,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     gen: 5,
   },
   ariaskull: {
-    num: 134,
+    num: -5002,
     name: 'Ariaskull',
     types: ['Bug', 'Ghost'],
     genderRatio: { M: 0.875, F: 0.125 },
